@@ -1,4 +1,4 @@
-# dcm-test-tool
+# asusar-v2-dcm-test
 ASUSAR v2 (Graduation Project): DCM Test tool
 
 Tool Startup:
